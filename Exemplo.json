@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "academia",
+        "descricao": "treinar costas",
+        "prazo": null,
+        "concluida": false
+    },
+    {
+        "titulo": "estudar",
+        "descricao": "json",
+        "prazo": "07/01/2026",
+        "concluida": true
+    },
+    {
+        "titulo": "jantar",
+        "descricao": "arroz, frango e batata",
+        "prazo": null,
+        "concluida": false
+    }
+]
